@@ -13,7 +13,7 @@ class _CategoriesState extends State<Categories> {
     "RAM",
     "Video cards",
     "Processors",
-    "Motherboard"
+    "Motherboards"
   ];
   int selectedIndex=0;
   @override
